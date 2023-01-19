@@ -1,2 +1,2 @@
-# CSD-340
-CSD 340 Classwork
+# csd340
+ csd340 class
